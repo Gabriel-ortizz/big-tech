@@ -36,4 +36,25 @@ export const products: Product[] = [
     image: "/relogio-4.jpg",
     featured: true,
   },
+  {
+    id: 5,
+    name: "Relógio Sport Pro",
+    price: 749.9,
+    image: "/relogio-4.jpg",
+    featured: true,
+  },
+  {
+    id: 6,
+    name: "Relógio Sport Pro",
+    price: 749.9,
+    image: "/relogio-4.jpg",
+    featured: true,
+  },
+  {
+    id: 7,
+    name: "Relógio Sport Pro",
+    price: 749.9,
+    image: "/relogio-4.jpg",
+    featured: true,
+  },
 ];
